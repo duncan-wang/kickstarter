@@ -1,6 +1,6 @@
 # kickstarter
 
-**Regression, Classification, and Clustering Analysis of Kickstarter Projects**
+## Regression, Classification, and Clustering Analysis of Kickstarter Projects
 
 Kickstarter is an online crowdfunding platform which connects creators with seed-funding to support various projects and initiatives. Creators advertise their projects to attract backers and are only funded if the project reaches its goal within a launch period. This analysis aims to predict the outcome of a project at time of launch. I used regression to predict the amount of funds pledged (in USD), classification to predict if a project was successful (i.e., it reached the funding goal), and cluster analysis to explore factors associated with successful vs. unsuccessful projects. 
 
